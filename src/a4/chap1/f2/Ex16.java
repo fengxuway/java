@@ -12,7 +12,7 @@ class Rational{
     }
 
     Rational plus(Rational b){
-        return null
+        return null;
     }
 }
 
